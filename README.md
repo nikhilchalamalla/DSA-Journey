@@ -71,3 +71,4 @@ I regularly update this repository with new problems and concepts as I continue 
 ---
 
 ⭐ Consistency + Practice = Success
+## Consistent Daily Practice
